@@ -1,0 +1,44 @@
+h1 {
+    color: blue;
+    text-align: center;
+    }
+h2 {
+        font-style: italic;
+        text-align: center;
+        color:teal;
+    }
+    .intro {
+        font-style: italic;
+    }
+    p {
+        color: gray;
+        }
+    .sidebar {
+        width: 30%;
+        float: right;
+        background-color: seagreen;
+    }
+        img {
+            float: left;
+        }
+            body {
+            background-color: greenyellow;
+        }
+        .author {
+        color: olivedrab;
+    }
+    p.author {
+        font-size: 12px;
+    }
+  h1 {
+      color: firebrick;
+      font-family: 'Courier New', Courier, monospace
+      text-align: center;
+      color: indigo;
+    }
+    p {
+        color: biege;
+    }
+    body {
+        background-color: coral;
+    }
